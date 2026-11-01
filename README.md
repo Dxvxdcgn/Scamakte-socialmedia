@@ -1,6 +1,6 @@
-# Scam-Akte Social Publishing
+# TenantTalk Social Publishing
 
-Dieses öffentliche Repository enthält ausschließlich die statischen Informations- und Rechteseiten der redaktionellen Social-Publishing-Anwendung von Scam-Akte.
+Dieses öffentliche Repository enthält ausschließlich die statischen Informations- und Rechteseiten der redaktionellen Social-Publishing-Anwendung von TenantTalk.
 
 ## Veröffentlichung mit GitHub Pages
 
